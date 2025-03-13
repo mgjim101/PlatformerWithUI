@@ -1,3 +1,5 @@
+Video demo: https://youtu.be/qzjFO3-wbxI
+
 # Third Person Platformer
 
 A simple third person character controller in Unity
